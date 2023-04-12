@@ -4,7 +4,7 @@
 
 > ## Shopping cart 
 > Build simple Shopping Cart with PHP - OOP.
-> * Basic Features *
+> Basic Features
 >   - Create Product
 >   - Add product to cart
 >   - Remove product from cart
